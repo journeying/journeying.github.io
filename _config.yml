@@ -102,5 +102,5 @@ theme: aomori
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: 'https://journeying.github.io/journeying.github.io'
+  repository: 'https://github.com/journeying/journeying.github.io'
   branch: gh-pages
