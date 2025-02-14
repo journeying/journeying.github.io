@@ -2,5 +2,7 @@ clean:
 	hexo clean
 gen: clean
 	hexo generate
-deploy: gen
+server: gen
+	hexo server
+deploy:
 	hexo deploy
